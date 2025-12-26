@@ -1,2 +1,6 @@
 I am editing this file
 this is m2
+I am happy.
+learning
+GIT
+Hands on too
